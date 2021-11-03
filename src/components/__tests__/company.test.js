@@ -103,6 +103,3 @@ test('Each company page render', () => {
     .toJSON();
   expect(home).toMatchSnapshot();
 });
-
-
-
