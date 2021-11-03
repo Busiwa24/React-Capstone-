@@ -24,3 +24,6 @@ CompanyTop.propTypes = {
 };
 
 export default CompanyTop;
+
+
+
