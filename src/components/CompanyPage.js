@@ -140,3 +140,6 @@ CompanyPage.propTypes = {
 };
 
 export default CompanyPage;
+
+
+
